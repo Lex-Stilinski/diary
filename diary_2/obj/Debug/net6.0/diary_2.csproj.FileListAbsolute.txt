@@ -1,0 +1,15 @@
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\bin\Debug\net6.0\diary_2.exe
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\bin\Debug\net6.0\diary_2.deps.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\bin\Debug\net6.0\diary_2.runtimeconfig.json
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\bin\Debug\net6.0\diary_2.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\bin\Debug\net6.0\diary_2.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.csproj.AssemblyReference.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.AssemblyInfoInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.AssemblyInfo.cs
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.csproj.CoreCompileInputs.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\refint\diary_2.dll
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.pdb
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\diary_2.genruntimeconfig.cache
+D:\Моя прелесть\mpt\2 курс\c#\Практические\diary_2\diary_2\obj\Debug\net6.0\ref\diary_2.dll
